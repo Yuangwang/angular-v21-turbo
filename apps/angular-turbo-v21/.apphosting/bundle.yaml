@@ -1,0 +1,9 @@
+version: v1
+runConfig:
+  runCommand: node dist/angular-turbo-v21/server/server.mjs
+  environmentVariables: []
+metadata:
+  adapterPackageName: "@apphosting/adapter-angular"
+  adapterVersion: 17.2.17
+  framework: angular
+  frameworkVersion: unspecified
